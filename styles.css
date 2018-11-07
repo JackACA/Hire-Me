@@ -1,0 +1,19 @@
+body {
+    background-color: red;
+}
+img {
+    height: 200px;
+}
+h1 {
+    font-family: 'Kumar One Outline', cursive;
+}
+h2 {
+    font-family: 'Chakra Petch', sans-serif;
+    text-align: center;
+}
+p {
+        text-align: center;
+}
+ul {
+        text-align: center;
+}
