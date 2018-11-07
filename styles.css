@@ -1,11 +1,16 @@
 body {
-    background-color: red;
+    background-color: #b8aeef;
 }
 img {
     height: 200px;
+    border: solid;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 h1 {
     font-family: 'Kumar One Outline', cursive;
+    color: #efaeae;
 }
 h2 {
     font-family: 'Chakra Petch', sans-serif;
@@ -13,7 +18,11 @@ h2 {
 }
 p {
         text-align: center;
+        color: #efefae;
+        font-family: 'Concert One', cursive;
 }
 ul {
         text-align: center;
+        color: #efefae;
+        font-family: 'Concert One', cursive;
 }
